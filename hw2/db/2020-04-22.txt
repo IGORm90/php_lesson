@@ -1,0 +1,10 @@
+127.0.0.1;2020-22-04 16:48:52;http://localhost/php1/hw2/add.php;http://localhost/php1/hw2/index.php
+127.0.0.1;2020-22-04 16:48:54;http://localhost/php1/hw2/article.php?id=4;http://localhost/php1/hw2/index.php
+127.0.0.1;2020-22-04 16:48:57;http://localhost/php1/hw2/article.php?id=4;http://localhost/php1/hw2/index.php
+127.0.0.1;2020-22-04 16:49:01;http://localhost/php1/hw2/article.php?id=5;http://localhost/php1/hw2/index.php
+127.0.0.1;2020-22-04 16:49:02;http://localhost/php1/hw2/delete.php?id=5;http://localhost/php1/hw2/article.php?id=5
+127.0.0.1;2020-22-04 16:49:03;http://localhost/php1/hw2/index.php;http://localhost/php1/hw2/delete.php?id=5
+127.0.0.1;2020-22-04 16:51:31;http://localhost/php1/hw2/index.php;http://localhost/php1/hw2/delete.php?id=5
+127.0.0.1;2020-22-04 16:57:23;http://localhost/php1/hw2/article.php?id=2;http://localhost/php1/hw2/index.php
+127.0.0.1;2020-22-04 16:57:25;http://localhost/php1/hw2/index.php;http://localhost/php1/hw2/article.php?id=2
+::1;2020-22-04 17:04:18;http://localhost/php1/hw2/index.php;http://localhost/php1/hw2/article.php?id=2

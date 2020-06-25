@@ -1,0 +1,4 @@
+127.0.0.1;2020-02-05 16:47:56;http://localhost/php1/hw2/;http://localhost/php1/
+127.0.0.1;2020-02-05 16:47:59;http://localhost/php1/hw2/article.php?id=2;http://localhost/php1/hw2/
+127.0.0.1;2020-02-05 16:48:01;http://localhost/php1/hw2/index.php;http://localhost/php1/hw2/article.php?id=2
+127.0.0.1;2020-02-05 16:48:03;http://localhost/php1/hw2/article.php?id=4;http://localhost/php1/hw2/index.php
